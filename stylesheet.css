@@ -79,7 +79,7 @@
   background-color: white;
 }
 
-@media (min-width: 375px) {
+@media (min-width: 600px) {
   .container-section {
     display: flex;
     flex-direction: row;
@@ -87,6 +87,6 @@
   .container-column {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 100%;
   }
 }
